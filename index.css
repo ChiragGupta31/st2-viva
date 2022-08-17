@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: orangered;
+}
+
+
+.slidercont{
+    height: 700px;
+    width: 700px ;
+}
+
+.img1{
+    height: 650px;
+    width: 600px !important;
+    margin: auto !important; 
+
+}
