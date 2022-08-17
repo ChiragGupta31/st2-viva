@@ -3,15 +3,19 @@ h1{
     color: orangered;
 }
 
-
-.slidercont{
-    height: 700px;
-    width: 700px ;
+h3{
+    color: yellow;
 }
+
+h4{
+    color: cyan;
+}
+
+
 
 .img1{
     height: 650px;
-    width: 600px !important;
-    margin: auto !important; 
+    width: 100% ;
+    
 
 }
